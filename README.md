@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+i made this so i could get the student dev package thing for a class
+
 <!--
 **lukecbellinger/lukecbellinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
